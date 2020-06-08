@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  HospitalMap
-//
-//  Created by kpugame on 2020/05/17.
-//  Copyright © 2020 kpugame. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSource {
